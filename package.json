@@ -1,0 +1,15 @@
+{
+  "name": "evo-minton",
+  "version": "1.0.0",
+  "description": "Evolutionary Algorithm to increase match diversity and balance while eliminating bias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
